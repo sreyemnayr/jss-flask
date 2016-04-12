@@ -5,13 +5,13 @@ Currently, just a simple Python web server that sends an "Update Inventory" comm
 ## Prerequisites
 * Python 2.x with pip
 * Flask
-	pip install Flask
+	`pip install Flask`
 * requests
-	pip install requests
+	`pip install requests`
 
 ## Usage:
 * On your server: 
-	python /path/to/jss-flask.py
+	`python /path/to/jss-flask.py`
 
 ## In a configuration profile:
 * Create a new configuration profile
